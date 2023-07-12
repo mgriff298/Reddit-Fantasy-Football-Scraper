@@ -10,4 +10,4 @@ I have created a dashboard view of the collected and analyzed data using Google 
 
 # Future Updates:
 
-The next update to make will be sorting posts as neutral, positive, or negative and using that to inform the overall sentiment of the comments.
+The next update to make will be analyzing last year's fantasy football performance for active players and widening the range of Reddit posts evaluated in order to determine accuracy of Reddit posts in determining fantasy football performance for the 2022-2023 season.
